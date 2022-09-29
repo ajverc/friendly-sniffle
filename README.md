@@ -1,2 +1,2 @@
-# friendly-sniffle
-a friendly sniffle i guess
+# pstat 131 fall 2022
+:)
